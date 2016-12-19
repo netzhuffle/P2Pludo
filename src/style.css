@@ -1,0 +1,102 @@
+.table {
+    position: relative;
+}
+
+.pawn {
+    position: absolute;
+    cursor: move;
+}
+
+.pawnr1 {
+    left: -8px;
+    top: -18px;
+}
+
+.pawnr2 {
+    left: 27px;
+    top: -18px;
+}
+
+.pawnr3 {
+    left: -8px;
+    top: 15px;
+}
+
+.pawnr4 {
+    left: 27px;
+    top: 15px;
+}
+
+.pawnb1 {
+    left: 292px;
+    top: -18px;
+}
+
+.pawnb2 {
+    left: 327px;
+    top: -18px;
+}
+
+.pawnb3 {
+    left: 292px;
+    top: 15px;
+}
+
+.pawnb4 {
+    left: 327px;
+    top: 15px;
+}
+
+.pawny1 {
+    left: -8px;
+    top: 282px;
+}
+
+.pawny2 {
+    left: 27px;
+    top: 282px;
+}
+
+.pawny3 {
+    left: -8px;
+    top: 320px;
+}
+
+.pawny4 {
+    left: 27px;
+    top: 320px;
+}
+
+.pawng1 {
+    left: 292px;
+    top: 282px;
+}
+
+.pawng2 {
+    left: 327px;
+    top: 282px;
+}
+
+.pawng3 {
+    left: 292px;
+    top: 320px;
+}
+
+.pawng4 {
+    left: 327px;
+    top: 320px;
+}
+
+.die {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    margin-left: 30px;
+    width: 50px;
+    height: 50px;
+    font-size: 44px;
+    font-family: sans-serif;
+    text-align: center;
+    border: 3px solid #888;
+    border-radius: 12px;
+}

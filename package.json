@@ -1,0 +1,19 @@
+{
+  "name": "p2pludo",
+  "version": "0.2.0",
+  "description": "Example implementation for netzhuffle/P2PboardgameAPI with the boardgame Ludo",
+  "dependencies": {
+    "p2pboardgameapi": "^0.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netzhuffle/P2Pludo.git"
+  },
+  "author": "Jannis Grimm <j@jannis.rocks> (http://jannis.rocks/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netzhuffle/P2Pludo/issues"
+  },
+  "homepage": "https://github.com/netzhuffle/P2Pludo#readme",
+  "private": true
+}

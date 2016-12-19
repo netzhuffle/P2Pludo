@@ -1,0 +1,5 @@
+node_modules/
+src/bgapi.bundle.js
+src/bgapi.bundle.js.map
+src/signaling.php
+src/messages.db
